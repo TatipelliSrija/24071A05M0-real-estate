@@ -1,0 +1,13 @@
+<web-app>
+
+<servlet>
+    <servlet-name>EMI</servlet-name>
+    <servlet-class>EMI</servlet-class>
+</servlet>
+
+<servlet-mapping>
+    <servlet-name>EMI</servlet-name>
+    <url-pattern>/emi</url-pattern>
+</servlet-mapping>
+
+</web-app>
